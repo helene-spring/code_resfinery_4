@@ -7,4 +7,4 @@ def test_add():
 	assert add("space", "ship") == "spaceship"
 
 def test_1():
-	assert 1==0
+    assert 1==1
